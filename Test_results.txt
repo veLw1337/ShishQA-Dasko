@@ -1,0 +1,67 @@
+Font	Font style	Size	Font color	Underline style	Effects	Strikethrough	Double strikethrough	Superscript	Subscript	Shadow	Outline	Emboss	Engrave	Small caps	All caps	Hidden
+NsimSun	Bold	13.5	Black	(none)		Off	Off	On	Off	On	On	Off	Off	Off	Off	Off
+Old English Text MT	Bold Italic	8	Off	On		On	On	On	On	Off	Off	On	On	On	On	On
+Palatino Linotype	Regular	12	Black	(none)		On	Off	Off	On	On	Off	On	Off	On	Off	Off
+Onyx	Italic	13.5	Off	On		Off	On	Off	Off	Off	On	Off	On	Off	On	On
+Nyala	Regular	13.5	Off	(none)		On	On	On	Off	Off	On	On	Off	Off	Off	On
+Nyala	Bold	8	Black	On		On	Off	Off	On	On	Off	Off	On	On	On	Off
+Old English Text MT	Italic	10	Black	(none)		On	Off	Off	Off	Off	Off	On	Off	Off	Off	Off
+Palatino Linotype	Regular	8	Off	On		Off	On	On	On	On	On	On	On	On	Off	On
+Onyx	Italic	8	Black	(none)		Off	On	On	On	On	Off	On	Off	On	On	Off
+Onyx	Bold Italic	11	Black	(none)		On	Off	Off	Off	Off	On	Off	Off	On	Off	On
+NsimSun	Bold	12	Off	On		Off	On	Off	On	Off	On	On	On	Off	On	On
+Nyala	Bold Italic	10	Off	On		Off	Off	On	On	On	On	Off	Off	Off	On	Off
+Palatino Linotype	Bold Italic	13.5	Off	(none)		On	On	Off	Off	Off	Off	Off	On	On	On	Off
+NsimSun	Bold Italic	12	Off	On		On	Off	Off	Off	Off	Off	Off	On	On	Off	On
+NsimSun	Italic	8	Black	On		Off	Off	Off	On	On	Off	Off	On	Off	On	Off
+Old English Text MT	Regular	11	Black	On		Off	Off	On	On	On	On	On	Off	Off	On	On
+Onyx	Regular	10	Black	(none)		On	On	On	Off	On	Off	Off	On	On	Off	On
+Old English Text MT	Bold	13.5	Black	(none)		On	Off	Off	On	Off	On	Off	On	Off	Off	Off
+Onyx	Bold	12	Off	(none)		On	Off	On	Off	Off	Off	Off	Off	On	On	On
+Palatino Linotype	Italic	8	Off	On		On	On	On	Off	Off	On	On	Off	Off	On	Off
+Nyala	Bold	12	Off	On		Off	On	On	On	On	On	Off	On	On	On	On
+Nyala	Italic	12	Black	On		Off	On	On	On	Off	Off	Off	Off	Off	Off	Off
+NsimSun	Regular	12	Black	(none)		Off	Off	Off	On	On	Off	Off	On	On	Off	On
+NsimSun	Bold	9	Black	On		Off	Off	Off	Off	Off	On	Off	On	Off	Off	Off
+Palatino Linotype	Bold	10	Black	(none)		Off	Off	On	On	Off	Off	On	Off	Off	Off	On
+Palatino Linotype	Bold Italic	13.5	Off	On		Off	Off	On	Off	Off	Off	Off	On	Off	On	On
+Onyx	Regular	9	Off	(none)		On	On	On	On	On	Off	On	Off	On	On	On
+Palatino Linotype	Bold	11	Off	(none)		On	On	Off	Off	On	On	On	On	On	On	Off
+NsimSun	Italic	11	Off	On		On	Off	On	Off	Off	Off	On	Off	Off	Off	On
+Old English Text MT	Regular	12	Black	(none)		Off	On	On	On	Off	Off	Off	Off	Off	Off	Off
+Nyala	Italic	9	Off	(none)		Off	Off	On	Off	On	Off	On	Off	On	Off	Off
+Old English Text MT	Regular	13.5	Black	On		On	Off	On	Off	Off	Off	Off	Off	Off	On	On
+Nyala	Italic	11	Off	(none)		Off	Off	On	On	Off	On	On	Off	On	Off	Off
+Old English Text MT	Bold Italic	9	Off	On		Off	Off	Off	On	On	Off	On	On	Off	On	Off
+Palatino Linotype	Bold Italic	9	Off	(none)		On	Off	Off	On	Off	On	Off	Off	Off	On	Off
+Old English Text MT	Bold	13.5	Black	(none)		On	Off	On	Off	On	Off	Off	Off	Off	Off	Off
+Old English Text MT	Bold	9	Black	(none)		On	Off	On	Off	Off	On	Off	On	On	Off	On
+Palatino Linotype	Italic	12	Off	On		Off	On	Off	On	On	On	On	On	On	On	On
+NsimSun	Italic	13.5	Off	On		Off	On	Off	On	On	Off	On	Off	Off	On	Off
+Onyx	Regular	11	Off	(none)		On	Off	Off	On	On	On	On	On	Off	Off	On
+Old English Text MT	Italic	8	Off	On		Off	Off	Off	On	Off	Off	On	Off	Off	On	Off
+NsimSun	Bold	10	Black	On		On	Off	Off	On	On	Off	On	On	Off	Off	On
+NsimSun	Bold Italic	10	Off	On		Off	Off	Off	On	On	Off	On	Off	Off	On	Off
+Palatino Linotype	Regular	10	Black	(none)		Off	On	On	On	On	On	On	Off	On	Off	Off
+NsimSun	Bold	12	Black	On		On	Off	Off	Off	On	Off	Off	Off	Off	Off	Off
+Palatino Linotype	Bold Italic	10	Black	On		On	On	Off	Off	On	On	On	On	On	On	On
+Nyala	Bold Italic	9	Off	(none)		Off	Off	On	Off	Off	On	Off	On	On	Off	Off
+Old English Text MT	Regular	11	Black	(none)		Off	On	Off	On	On	On	On	On	On	Off	On
+Onyx	Italic	11	Black	On		On	Off	Off	Off	Off	Off	On	Off	Off	On	Off
+Onyx	Italic	8	Off	On		On	Off	On	On	Off	On	Off	Off	On	Off	On
+Nyala	Bold Italic	13.5	Off	(none)		Off	Off	Off	On	Off	On	On	Off	On	On	Off
+Nyala	Italic	10	Black	On		On	On	Off	On	On	Off	Off	On	On	On	Off
+NsimSun	Italic	8	Off	(none)		On	Off	Off	Off	Off	Off	On	Off	On	On	On
+Nyala	Bold Italic	12	Off	On		On	Off	On	Off	Off	Off	Off	Off	Off	On	On
+NsimSun	Regular	8	Off	On		On	On	Off	Off	On	Off	Off	Off	On	Off	Off
+Onyx	Italic	9	Black	(none)		On	On	Off	Off	On	On	Off	On	Off	Off	On
+NsimSun	Bold Italic	9	Black	(none)		On	Off	Off	On	Off	On	Off	Off	On	Off	Off
+Onyx	Italic	13.5	Black	On		Off	On	Off	Off	On	Off	On	On	On	On	Off
+Palatino Linotype	Regular	9	Black	(none)		Off	On	Off	Off	On	Off	On	On	Off	On	On
+NsimSun	Bold	11	Black	(none)		Off	On	Off	On	On	On	On	On	Off	On	On
+NsimSun	Regular	11	Off	(none)		On	On	On	Off	Off	On	On	On	Off	Off	On
+NsimSun	Italic	11	Black	On		On	Off	On	Off	Off	On	On	On	Off	Off	Off
+Nyala	Bold Italic	10	Black	(none)		On	Off	On	Off	Off	Off	On	On	Off	Off	Off
+Nyala	Regular	8	Black	On		On	Off	Off	On	Off	Off	On	On	On	On	On
+Nyala	Bold Italic	9	Black	On		On	Off	On	On	On	On	Off	On	On	Off	On
+Onyx	Bold	10	Black	On		On	Off	On	Off	On	On	On	Off	Off	Off	On
