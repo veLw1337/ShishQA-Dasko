@@ -1,0 +1,67 @@
+Font	Font style	Size	Font color	Underline style	Effects
+Old English Text MT	Regular	12	Black	(none)	Double strikethrough
+Old English Text MT	Italic	8	Off	On	Strikethrough
+Nyala	Bold	13.5	Black	On	Shadow
+NsimSun	Bold Italic	10	Off	(none)	Strikethrough
+Onyx	Bold	12	Off	On	Emboss
+Palatino Linotype	Italic	10	Black	On	Subscript
+Onyx	Bold Italic	8	Black	(none)	Superscript
+Nyala	Regular	13.5	Off	(none)	Subscript
+Palatino Linotype	Regular	9	Off	On	Superscript
+NsimSun	Bold	9	Black	(none)	Small caps
+NsimSun	Italic	8	Off	(none)	All caps
+Palatino Linotype	Bold Italic	11	Black	On	All caps
+NsimSun	Regular	10	Off	On	Hidden
+Palatino Linotype	Italic	12	Off	(none)	Engrave
+Onyx	Regular	8	Off	(none)	Shadow
+Onyx	Italic	13.5	Off	On	All caps
+Old English Text MT	Bold	10	Off	(none)	All caps
+Old English Text MT	Bold Italic	10	Off	(none)	Shadow
+Nyala	Italic	8	Off	On	Small caps
+Old English Text MT	Bold	11	Off	(none)	Outline
+NsimSun	Italic	11	Off	(none)	Shadow
+Nyala	Bold Italic	11	Black	(none)	Hidden
+Nyala	Italic	10	Black	On	Outline
+Palatino Linotype	Bold	8	Black	(none)	Outline
+Palatino Linotype	Regular	11	Black	(none)	Emboss
+Old English Text MT	Bold Italic	12	Black	(none)	Small caps
+Palatino Linotype	Bold Italic	13.5	Black	On	Strikethrough
+NsimSun	Bold	11	Off	On	Superscript
+Onyx	Bold	10	Off	On	Double strikethrough
+Onyx	Bold	11	Black	On	Engrave
+NsimSun	Regular	8	Black	(none)	Engrave
+Old English Text MT	Bold Italic	9	Black	On	Subscript
+Nyala	Regular	12	Off	(none)	All caps
+NsimSun	Italic	8	Off	(none)	Emboss
+NsimSun	Italic	12	Off	On	Superscript
+NsimSun	Bold Italic	8	Off	On	Double strikethrough
+Nyala	Italic	13.5	Black	On	Double strikethrough
+Nyala	Bold	11	Off	On	Strikethrough
+NsimSun	Bold	12	Off	On	Subscript
+Nyala	Bold Italic	9	Off	On	Engrave
+Old English Text MT	Bold Italic	10	Black	On	Emboss
+Old English Text MT	Regular	10	Black	On	Superscript
+Onyx	Italic	9	Black	(none)	Shadow
+Palatino Linotype	Regular	13.5	Off	On	Small caps
+Old English Text MT	Italic	10	Black	(none)	Engrave
+Onyx	Regular	11	Black	On	Small caps
+Nyala	Bold	9	Off	(none)	Emboss
+Palatino Linotype	Bold Italic	11	Off	On	Double strikethrough
+Palatino Linotype	Bold	12	Off	On	Hidden
+Onyx	Italic	9	Black	On	Hidden
+Onyx	Bold Italic	8	Black	(none)	Subscript
+Old English Text MT	Bold Italic	13.5	Off	On	Emboss
+NsimSun	Bold Italic	13.5	Off	On	Outline
+NsimSun	Italic	11	Off	(none)	Subscript
+Onyx	Regular	9	Black	(none)	Outline
+Palatino Linotype	Bold Italic	12	Off	On	Shadow
+Palatino Linotype	Regular	9	Off	On	All caps
+Old English Text MT	Regular	13.5	Black	(none)	Hidden
+Onyx	Regular	12	Black	(none)	Strikethrough
+Onyx	Bold Italic	10	Off	(none)	Small caps
+Nyala	Regular	13.5	Off	(none)	Superscript
+Old English Text MT	Italic	9	Off	(none)	Strikethrough
+Palatino Linotype	Italic	9	Off	On	Double strikethrough
+NsimSun	Regular	13.5	Off	(none)	Engrave
+Palatino Linotype	Italic	8	Black	On	Hidden
+Old English Text MT	Regular	12	Off	(none)	Outline
